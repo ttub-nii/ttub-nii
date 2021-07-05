@@ -5,4 +5,4 @@
 
 > [Proutine](https://apps.apple.com/app/id1527993626)'s on the market !
 
-### 👉 [`이력서`](https://github.com/ttub-nii/resume/blob/master/README.md) [`Resume`](https://github.com/ttub-nii/resume/blob/master/README(ver.English).md)
+### 👉 [`이력서`](https://github.com/ttub-nii/ttub-nii/blob/main/RESUME/RESUME.md) [`Resume`](https://github.com/ttub-nii/ttub-nii/blob/main/RESUME/RESUME(ver.English).md)
